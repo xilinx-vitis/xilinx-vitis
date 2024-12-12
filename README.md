@@ -4,7 +4,7 @@
 <br/>
 
 
-🔧 FPGA Engineer specializing in mission-critical real-time applications
+**FPGA Engineer** specializing in **mission-critical real-time applications**
 
 💡 Passionate about:
 - Hardware/Software co-design

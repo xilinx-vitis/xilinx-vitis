@@ -12,10 +12,10 @@
 - **Machine Learning acceleration**
 - Real-time **embedded systems**
 
-🛠️ Technical expertise in VHDL, Verilog, and HLS
+🛠️ Technical expertise in **VHDL**, **Verilog**, and **HLS**
 
-🌐 Experience with remote collaboration across global teams
+🌐 Experience with **remote** collaboration across **global teams**
 
-🎯 Focused on developing robust, adaptable computing solutions
+🎯 Focused on developing **robust**, **adaptable computing** solutions
 
 Currently working on FPGA-based solutions for high-performance applications

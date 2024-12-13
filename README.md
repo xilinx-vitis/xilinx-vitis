@@ -7,10 +7,10 @@
 **FPGA Engineer** specializing in **mission-critical real-time applications**
 
 💡 Passionate about:
-- Hardware/Software co-design
-- FPGA development with Xilinx tools (Vitis & Vivado)
-- Machine Learning acceleration
-- Real-time embedded systems
+- **Hardware/Software** co-design
+- FPGA development with Xilinx tools (**Vitis & Vivado**)
+- **Machine Learning acceleration**
+- Real-time **embedded systems**
 
 🛠️ Technical expertise in VHDL, Verilog, and HLS
 
